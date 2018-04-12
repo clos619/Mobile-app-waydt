@@ -1,0 +1,71 @@
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\WAYDT.csprojResolveAssemblyReference.cache
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\WAYDT.dll
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\WAYDT.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\WAYDT.WAYDT.apk
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\WAYDT.WAYDT-Signed.apk
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\WAYDT.csproj.CoreCompileInputs.cache
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\WAYDT.dll
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\WAYDT.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\android\bin\WAYDT.WAYDT.apk
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\res\layout\main.xml
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\res\values\strings.xml
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\R.cs.flag
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\uploadflags.txt
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\Mono.Android.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\mscorlib.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.Core.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.Xml.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.Net.Http.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\Mono.Security.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.Core.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\clos6\OneDrive\Documents\Visual Studio 2017\Projects\WAYDT\WAYDT\obj\Debug\linksrc\WAYDT.dll.mdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\WAYDT.csprojResolveAssemblyReference.cache
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\WAYDT.dll
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\WAYDT.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\WAYDT.dll
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\WAYDT.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\WAYDT.WAYDT.apk
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\WAYDT.WAYDT-Signed.apk
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\WAYDT.csproj.CoreCompileInputs.cache
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\android\bin\WAYDT.WAYDT.apk
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\res\layout\main.xml
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\res\values\strings.xml
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\R.cs.flag
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\uploadflags.txt
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\Mono.Android.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\Mono.Security.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\mscorlib.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.Core.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.Net.Http.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\System.Xml.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\bin\Debug\WAYDT.dll.mdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\android\assets\WAYDT.dll.mdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\WAYDT.dll.mdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.Core.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\clos6\Desktop\WAYDT\WAYDT\obj\Debug\res\drawable\sd.jpg

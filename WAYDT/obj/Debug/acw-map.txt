@@ -1,0 +1,4 @@
+WAYDT.MainActivity, WAYDT;md579d6102dcf7c3cd51e58a00b4706c7ae.MainActivity
+WAYDT.MainActivity, WAYDT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579d6102dcf7c3cd51e58a00b4706c7ae.MainActivity
+WAYDT.MainActivity;md579d6102dcf7c3cd51e58a00b4706c7ae.MainActivity
+waydt.MainActivity;md579d6102dcf7c3cd51e58a00b4706c7ae.MainActivity
